@@ -1,0 +1,1 @@
+This project is a comprehensive web application developed for tracking and managing daily spiritual activities and events for ISKCON. The application facilitates users in logging their spiritual practices, monitoring progress, and participating in community events. Additionally, it supports administrative functionalities for managing user data and activities.
